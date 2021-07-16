@@ -17,4 +17,4 @@
 sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
 
 # Add a feed source
-sed -i '$a src-git smartdns https://github.com/pymumu/smartdns' feeds.conf.default
+#sed -i '$a src-git smartdns https://github.com/pymumu/smartdns' feeds.conf.default
